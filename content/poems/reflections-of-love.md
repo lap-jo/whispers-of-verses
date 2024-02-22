@@ -1,7 +1,8 @@
 ---
 title: "Reflections of Love"
-date: 2024-02-17T19:00:04+03:00
+date: 2024-01-08T19:00:04+03:00
 draft: false
+tag: poetry
 ---
 
 ![hands above water](/images/hands.png)

@@ -1,6 +1,6 @@
 ---
 title: "Unchanging Sights"
-date: 2024-02-17T19:00:48+03:00
+date: 2024-01-26T19:00:48+03:00
 draft: false
 ---
 

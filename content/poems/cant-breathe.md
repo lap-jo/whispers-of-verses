@@ -1,8 +1,9 @@
 ---
 title: "I Cant Breathe"
-date: 2024-02-17T18:46:42+03:00
+date: 2024-01-08T18:46:42+03:00
 draft: false
 author: agum manuella
+tag: poetry
 ---
 
 *In shadows cast by prejudice, a tale unfolds,*

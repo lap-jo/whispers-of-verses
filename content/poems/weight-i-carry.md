@@ -1,6 +1,6 @@
 ---
-title: "Weight I Carry"
-date: 2024-02-17T19:00:34+03:00
+title: "The Weight I Carry"
+date: 2024-01-17T19:00:34+03:00
 draft: false
 ---
 
