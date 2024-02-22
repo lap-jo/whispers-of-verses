@@ -1,0 +1,3 @@
+# robots.txt file for "Whispers of Verses." website, 
+User-agent: *
+Disallow: /
