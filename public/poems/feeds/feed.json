@@ -8,40 +8,38 @@
   "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
   "authors": [
     {
-      "name": "John Doe",
-      "url": "https://twitter.com/john_doe"
+      "name": "Agum Manuella"
     }
   ],
   "language" : "en-us",
   "items": [
     {
-      "id": "8277c122-ae9f-5685-9988-c831fee7d354",
-      "url": "/poems/mypoem/?utm_source=json_feed",
-      "title": "My poem",
-      "summary": " The library is pretty And so are books Deep ",
-      "date_published": "2022-02-02T14:56:58+02:00"
+      "id": "39fd4205-9616-50b5-2915-3ad6caf5d0dd",
+      "url": "/poems/unchanging-sights/?utm_source=json_feed",
+      "title": "Unchanging Sights",
+      "summary": "Made the wrong choice, Hell is the repitition,\nHoping for new scenes, but I see same sights.\nUnchanging landscape, never the surprise,\nAlways the same, but never quite right\nLatest publications 2024.01.26 Unchanging Sights 2024.01.17 The Weight I Carry 2024.01.08 Reflections of Love 2024.01.08 I Cant Breathe ",
+      "date_published": "2024-01-26T19:00:48+03:00"
     },
     {
-      "id": "f93e3e3b-5622-520f-596a-3376886ca3f9",
-      "url": "/poems/dreams/?utm_source=json_feed",
-      "title": "Dreams",
-      "summary": " Hold fast to dreams For if dreams die Life is a broken-winged bird That cannot fly. Hold fast to dreams For when dreams go Life is a barren field Frozen with snow. ",
-      "date_published": "2022-02-01T14:56:58+02:00",
-      "date_modified" : "2022-05-01T14:56:58+02:00"
+      "id": "bc03d253-5ec1-51ae-1983-a44df8282d00",
+      "url": "/poems/weight-i-carry/?utm_source=json_feed",
+      "title": "The Weight I Carry",
+      "summary": "While you claim to care,\nWhen I bring my issues to you,\nI feel like they’re being belittled as minor concerns.\nEven though you say to “ignore it,”\nI’m left with a hurt heart…\nLatest publications 2024.01.26 Unchanging Sights 2024.01.17 The Weight I Carry 2024.01.08 Reflections of Love 2024.01.08 I Cant Breathe ",
+      "date_published": "2024-01-17T19:00:34+03:00"
     },
     {
-      "id": "d43a67e8-2f0e-5bce-89c6-35b11cc50f17",
-      "url": "/poems/delayed/?utm_source=json_feed",
-      "title": "Delayed till she had ceased to know",
-      "summary": "DELAYED till she had ceased to know, Delayed till in its vest of snow Her loving bosom lay. An hour behind the fleeting breath, Later by just an hour than death,— Oh, lagging yesterday! Could she have guessed that it would be; Could but a crier of the glee Have climbed the distant hill; Had not the bliss so slow a pace,— Who knows but this surrendered face Were undefeated still?",
-      "date_published": "2022-01-30T14:56:58+02:00"
+      "id": "9624026c-e2aa-5003-b979-e70ffafa7993",
+      "url": "/poems/reflections-of-love/?utm_source=json_feed",
+      "title": "Reflections of Love",
+      "summary": "In the mirror’s gaze, find strength untold,\nEmbrace the flaws, let self-love unfold.\nA dance with echoes of kindness within,\nCherish the soul, let self-love begin.\nThrough trials and triumphs, be your guide,\nIn the heart’s cathedral, let love reside.\nEach flaw a note in the melody of you,\nCompose a symphony, authentic and true.\nLike petals unfolding in morning light,\nDiscover self-love, a radiant sight.\nNo need for judgment, let acceptance bloom,",
+      "date_published": "2024-01-08T19:00:04+03:00"
     },
     {
-      "id": "f30ae8a3-a6fc-5ff7-49d3-c4395984f408",
-      "url": "/poems/o-captain/?utm_source=json_feed",
-      "title": "O Captain! My Captain!",
-      "summary": "O Captain! my Captain! our fearful trip is done;1 The ship has weather’d every rack, the prize we sought is won, The port is near, the bells I hear, the people all exulting, While follow eyes the steady keel, the vessel grim and daring; But O heart! heart! heart! O the bleeding drops of red, Where on the deck my Captain lies, Fallen cold and dead. O Captain! my Captain!",
-      "date_published": "2021-02-02T23:56:58+02:00"
+      "id": "d893a549-66be-53be-39c0-1ed61aeed0bc",
+      "url": "/poems/cant-breathe/?utm_source=json_feed",
+      "title": "I Cant Breathe",
+      "summary": "In shadows cast by prejudice, a tale unfolds,\n“I can’t breathe,” the whispered plea, truth be told.\nA world divided by the hues we wear,\nYet, in unity, a remedy lies somewhere.\nEchoes of injustice linger in the air,\nAs wounds of hatred fester, deep and bare.\n“I can’t breathe,” a refrain of human pain,\nYearning for a day when love shall reign.\nSkin is but a canvas, painted diverse,",
+      "date_published": "2024-01-08T18:46:42+03:00"
     }
   ]
 }

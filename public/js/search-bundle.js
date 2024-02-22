@@ -24,7 +24,7 @@
 
   // ns-params:@params
   var i18n = {noResults: "No results found."};
-  var searchConfig = {indexURI: "/index.json", lunrLanguages: ["en", "es"], maxSummaryLength: 100};
+  var searchConfig = {indexURI: "/index.json", lunrLanguages: ["en"], maxSummaryLength: 100};
 
   // <stdin>
   var pagesIndex;

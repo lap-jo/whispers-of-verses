@@ -1,15 +1,12 @@
 
     /* TEAM */
 
-    Author: John Doe
-    Contact: john@example.com
-    GitHub: @john_doe
-    Twitter: @john_doe
-    From: Kyiv, Ukraine
+    Author: Agum Manuella
+    Contact: manuellaagum25@gmail.com
 
     /* SITE */
 
-    Last update: 2024/02/17
+    Last update: 2024/02/22
     Language: English
     Doctype: HTML5
     Standards: HTML5, CSS3, Open Graph protocol, Schema.org

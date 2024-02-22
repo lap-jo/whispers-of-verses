@@ -27,44 +27,71 @@
     <atom:link href="/poems/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     
     <generator>Hugo 0.111.3</generator>
-    <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
+    <dc:creator type="html"><![CDATA[Agum Manuella]]></dc:creator>
     <language>en-us</language>
-    <copyright>Copyright © 2019-2024 John Doe</copyright>
-    <lastBuildDate>Sun, 01 May 2022 14:56:58 +0200</lastBuildDate>
+    <copyright>Copyright © 2023-2024 Agum Manuella</copyright>
+    <lastBuildDate>Fri, 26 Jan 2024 19:00:48 +0300</lastBuildDate>
     <item>
-        <title type="html"><![CDATA[My poem]]></title>
-        <link>/poems/mypoem/?utm_source=rss_feed</link>
-        <pubDate>Wed, 02 Feb 2022 14:56:58 +0200</pubDate>
+        <title type="html"><![CDATA[Unchanging Sights]]></title>
+        <link>/poems/unchanging-sights/?utm_source=rss_feed</link>
+        <pubDate>Fri, 26 Jan 2024 19:00:48 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">ae1abd00bd5581095cb1e22d2ac3db80</guid>
-        <description type="html"><![CDATA[ The library is pretty And so are books Deep ]]></description>
+        <guid isPermaLink="false">5ee466fa15f918dce43d4427dd2992e8</guid>
+        <description type="html"><![CDATA[Made the wrong choice, Hell is the repitition,
+Hoping for new scenes, but I see same sights.
+Unchanging landscape, never the surprise,
+Always the same, but never quite right
+Latest publications 2024.01.26 Unchanging Sights 2024.01.17 The Weight I Carry 2024.01.08 Reflections of Love 2024.01.08 I Cant Breathe ]]></description>
     </item>
     
     <item>
-        <title type="html"><![CDATA[Dreams]]></title>
-        <link>/poems/dreams/?utm_source=rss_feed</link>
-        <pubDate>Tue, 01 Feb 2022 14:56:58 +0200</pubDate>
+        <title type="html"><![CDATA[The Weight I Carry]]></title>
+        <link>/poems/weight-i-carry/?utm_source=rss_feed</link>
+        <pubDate>Wed, 17 Jan 2024 19:00:34 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">91767ba6210356c9dd95be327ab86aec</guid>
-        <description type="html"><![CDATA[ Hold fast to dreams For if dreams die Life is a broken-winged bird That cannot fly. Hold fast to dreams For when dreams go Life is a barren field Frozen with snow. ]]></description>
+        <guid isPermaLink="false">dc06bb40f2213e0074d33921c90ec27c</guid>
+        <description type="html"><![CDATA[While you claim to care,
+When I bring my issues to you,
+I feel like they’re being belittled as minor concerns.
+Even though you say to “ignore it,”
+I’m left with a hurt heart…
+Latest publications 2024.01.26 Unchanging Sights 2024.01.17 The Weight I Carry 2024.01.08 Reflections of Love 2024.01.08 I Cant Breathe ]]></description>
     </item>
     
     <item>
-        <title type="html"><![CDATA[Delayed till she had ceased to know]]></title>
-        <link>/poems/delayed/?utm_source=rss_feed</link>
-        <pubDate>Sun, 30 Jan 2022 14:56:58 +0200</pubDate>
+        <title type="html"><![CDATA[Reflections of Love]]></title>
+        <link>/poems/reflections-of-love/?utm_source=rss_feed</link>
+        <pubDate>Mon, 08 Jan 2024 19:00:04 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">e5760a220d76b12d03134f8f814fc798</guid>
-        <description type="html"><![CDATA[DELAYED till she had ceased to know, Delayed till in its vest of snow Her loving bosom lay. An hour behind the fleeting breath, Later by just an hour than death,— Oh, lagging yesterday! Could she have guessed that it would be; Could but a crier of the glee Have climbed the distant hill; Had not the bliss so slow a pace,— Who knows but this surrendered face Were undefeated still?]]></description>
+        <guid isPermaLink="false">d858981493c87ad966fb909751f82a59</guid>
+        <description type="html"><![CDATA[In the mirror’s gaze, find strength untold,
+Embrace the flaws, let self-love unfold.
+A dance with echoes of kindness within,
+Cherish the soul, let self-love begin.
+Through trials and triumphs, be your guide,
+In the heart’s cathedral, let love reside.
+Each flaw a note in the melody of you,
+Compose a symphony, authentic and true.
+Like petals unfolding in morning light,
+Discover self-love, a radiant sight.
+No need for judgment, let acceptance bloom,]]></description>
     </item>
     
     <item>
-        <title type="html"><![CDATA[O Captain! My Captain!]]></title>
-        <link>/poems/o-captain/?utm_source=rss_feed</link>
-        <pubDate>Tue, 02 Feb 2021 23:56:58 +0200</pubDate>
+        <title type="html"><![CDATA[I Cant Breathe]]></title>
+        <link>/poems/cant-breathe/?utm_source=rss_feed</link>
+        <pubDate>Mon, 08 Jan 2024 18:46:42 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">20e2922741f431fc1cf1a23c9ac2f6bb</guid>
-        <description type="html"><![CDATA[O Captain! my Captain! our fearful trip is done;1 The ship has weather’d every rack, the prize we sought is won, The port is near, the bells I hear, the people all exulting, While follow eyes the steady keel, the vessel grim and daring; But O heart! heart! heart! O the bleeding drops of red, Where on the deck my Captain lies, Fallen cold and dead. O Captain! my Captain!]]></description>
+        <guid isPermaLink="false">bdc25cc977a187a35dcf6701e88530c0</guid>
+        <description type="html"><![CDATA[In shadows cast by prejudice, a tale unfolds,
+“I can’t breathe,” the whispered plea, truth be told.
+A world divided by the hues we wear,
+Yet, in unity, a remedy lies somewhere.
+Echoes of injustice linger in the air,
+As wounds of hatred fester, deep and bare.
+“I can’t breathe,” a refrain of human pain,
+Yearning for a day when love shall reign.
+Skin is but a canvas, painted diverse,]]></description>
     </item>
     
 </rss>

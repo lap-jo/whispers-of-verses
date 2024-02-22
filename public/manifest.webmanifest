@@ -23,19 +23,9 @@
       "url": "/about/"
     } ,
     {
-      "name": "Credits",
-      "short_name" : "credits",
-      "url": "/credits/"
-    } ,
-    {
-      "name": "Documentation",
-      "short_name" : "documentation",
-      "url": "/documentation/"
-    } ,
-    {
-      "name": "Search",
-      "short_name" : "search",
-      "url": "/search/"
+      "name": "Poems",
+      "short_name" : "poems",
+      "url": "/poems/"
     } ,
     {
       "name": "Contact",
@@ -43,9 +33,9 @@
       "url": "/contact/"
     } ,
     {
-      "name": "GitHub Project",
-      "short_name" : "github",
-      "url": "https://github.com/sergeyklay/gohugo-theme-ed/"
+      "name": "Search",
+      "short_name" : "search",
+      "url": "/search/"
     }
   ],
   "icons": [
