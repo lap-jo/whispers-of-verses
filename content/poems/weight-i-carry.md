@@ -1,5 +1,5 @@
 ---
-title: "The Weight I Carry"
+title: "THE WEIGHT I CARRY - A POEM"
 date: 2024-01-17T19:00:34+03:00
 draft: false
 ---

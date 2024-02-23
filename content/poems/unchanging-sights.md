@@ -1,5 +1,5 @@
 ---
-title: "Unchanging Sights"
+title: "UNCHANGING SIGHTS - A POEM"
 date: 2024-01-26T19:00:48+03:00
 draft: false
 ---

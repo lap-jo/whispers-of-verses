@@ -1,5 +1,5 @@
 ---
-title: "Reflections of Love"
+title: "REFLECTIONS OF LOVE - A POEM"
 date: 2024-01-08T19:00:04+03:00
 draft: false
 tag: poetry
