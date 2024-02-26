@@ -8,16 +8,16 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en-us"
-    xml:base="/">
+    xml:base="https://whispersofverses.com/">
     <channel>
         <title type="html"><![CDATA[Whispers of Verses.]]></title>
     </channel>
-    <link type="text/html">/</link>
+    <link type="text/html">https://whispersofverses.com/</link>
     
     <image>
-        <url>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <url>https://whispersofverses.com/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
         <title type="html"><![CDATA[Whispers of Verses.]]></title>
-        <link>/</link>
+        <link>https://whispersofverses.com/</link>
         <width>96</width>
         <height>96</height>
     </image>
@@ -36,10 +36,10 @@
     <lastBuildDate>Fri, 26 Jan 2024 19:00:48 +0300</lastBuildDate>
     <item>
         <title type="html"><![CDATA[UNCHANGING SIGHTS - A POEM]]></title>
-        <link>/poems/unchanging-sights/?utm_source=rss_feed</link>
+        <link>https://whispersofverses.com/poems/unchanging-sights/?utm_source=rss_feed</link>
         <pubDate>Fri, 26 Jan 2024 19:00:48 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">5ee466fa15f918dce43d4427dd2992e8</guid>
+        <guid isPermaLink="false">7c1e6ae126a210c423345d90e6867efd</guid>
         <description type="html"><![CDATA[Made the wrong choice, Hell is the repitition,
 Hoping for new scenes, but I see same sights.
 Unchanging landscape, never the surprise,
@@ -49,10 +49,10 @@ Latest publications 2024.01.26 UNCHANGING SIGHTS - A POEM 2024.01.17 THE WEIGHT 
     
     <item>
         <title type="html"><![CDATA[THE WEIGHT I CARRY - A POEM]]></title>
-        <link>/poems/weight-i-carry/?utm_source=rss_feed</link>
+        <link>https://whispersofverses.com/poems/weight-i-carry/?utm_source=rss_feed</link>
         <pubDate>Wed, 17 Jan 2024 19:00:34 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">dc06bb40f2213e0074d33921c90ec27c</guid>
+        <guid isPermaLink="false">ee6190eab6fe94573671880db56bb084</guid>
         <description type="html"><![CDATA[While you claim to care,
 When I bring my issues to you,
 I feel like they’re being belittled as minor concerns.
@@ -63,10 +63,10 @@ Latest publications 2024.01.26 UNCHANGING SIGHTS - A POEM 2024.01.17 THE WEIGHT 
     
     <item>
         <title type="html"><![CDATA[REFLECTIONS OF LOVE - A POEM]]></title>
-        <link>/poems/reflections-of-love/?utm_source=rss_feed</link>
+        <link>https://whispersofverses.com/poems/reflections-of-love/?utm_source=rss_feed</link>
         <pubDate>Mon, 08 Jan 2024 19:00:04 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">d858981493c87ad966fb909751f82a59</guid>
+        <guid isPermaLink="false">e9f52c0f0cec33507d62f23d896a51b0</guid>
         <description type="html"><![CDATA[In the mirror’s gaze, find strength untold,
 Embrace the flaws, let self-love unfold.
 A dance with echoes of kindness within,
@@ -82,10 +82,10 @@ No need for judgment, let acceptance bloom,]]></description>
     
     <item>
         <title type="html"><![CDATA[I CAN'T BREATHE - A Poem]]></title>
-        <link>/poems/cant-breathe/?utm_source=rss_feed</link>
+        <link>https://whispersofverses.com/poems/cant-breathe/?utm_source=rss_feed</link>
         <pubDate>Mon, 08 Jan 2024 18:46:42 +0300</pubDate>
         <category>poems</category>
-        <guid isPermaLink="false">bdc25cc977a187a35dcf6701e88530c0</guid>
+        <guid isPermaLink="false">f20cd73ad0e9791fe0d9a804cc5c662b</guid>
         <description type="html"><![CDATA[In shadows cast by prejudice, a tale unfolds,
 “I can’t breathe,” the whispered plea, truth be told.
 A world divided by the hues we wear,

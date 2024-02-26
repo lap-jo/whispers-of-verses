@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>/poems/</loc>
+        <loc>https://whispersofverses.com/poems/</loc>
         <lastmod>2024-01-26T19:00:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/poems/unchanging-sights/</loc>
+        <loc>https://whispersofverses.com/poems/unchanging-sights/</loc>
         <lastmod>2024-01-26T19:00:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/</loc>
+        <loc>https://whispersofverses.com/</loc>
         <lastmod>2024-01-26T19:00:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/poems/weight-i-carry/</loc>
+        <loc>https://whispersofverses.com/poems/weight-i-carry/</loc>
         <lastmod>2024-01-17T19:00:34+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/poems/reflections-of-love/</loc>
+        <loc>https://whispersofverses.com/poems/reflections-of-love/</loc>
         <lastmod>2024-01-08T19:00:04+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/poems/cant-breathe/</loc>
+        <loc>https://whispersofverses.com/poems/cant-breathe/</loc>
         <lastmod>2024-01-08T18:46:42+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>https://whispersofverses.com/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/contact/</loc>
+        <loc>https://whispersofverses.com/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/credits/</loc>
+        <loc>https://whispersofverses.com/credits/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/search/</loc>
+        <loc>https://whispersofverses.com/search/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>https://whispersofverses.com/tags/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>

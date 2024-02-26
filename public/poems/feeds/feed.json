@@ -1,11 +1,11 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Poems - Whispers of Verses.",
-  "home_page_url": "/",
+  "home_page_url": "https://whispersofverses.com/?utm_source=json_feed",
   
   
-  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
-  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "icon": "https://whispersofverses.com/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "https://whispersofverses.com/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
   "authors": [
     {
       "name": "Agum Manuella"
@@ -14,29 +14,29 @@
   "language" : "en-us",
   "items": [
     {
-      "id": "39fd4205-9616-50b5-2915-3ad6caf5d0dd",
-      "url": "/poems/unchanging-sights/?utm_source=json_feed",
+      "id": "afc059b3-3251-58d8-d9dc-720286b8e7f0",
+      "url": "https://whispersofverses.com/poems/unchanging-sights/?utm_source=json_feed",
       "title": "UNCHANGING SIGHTS - A POEM",
       "summary": "Made the wrong choice, Hell is the repitition,\nHoping for new scenes, but I see same sights.\nUnchanging landscape, never the surprise,\nAlways the same, but never quite right\nLatest publications 2024.01.26 UNCHANGING SIGHTS - A POEM 2024.01.17 THE WEIGHT I CARRY - A POEM 2024.01.08 REFLECTIONS OF LOVE - A POEM 2024.01.08 I CAN\u0026#39;T BREATHE - A Poem ",
       "date_published": "2024-01-26T19:00:48+03:00"
     },
     {
-      "id": "bc03d253-5ec1-51ae-1983-a44df8282d00",
-      "url": "/poems/weight-i-carry/?utm_source=json_feed",
+      "id": "c60aa165-0b26-5457-396e-c0f9524fa6a3",
+      "url": "https://whispersofverses.com/poems/weight-i-carry/?utm_source=json_feed",
       "title": "THE WEIGHT I CARRY - A POEM",
       "summary": "While you claim to care,\nWhen I bring my issues to you,\nI feel like they’re being belittled as minor concerns.\nEven though you say to “ignore it,”\nI’m left with a hurt heart…\nLatest publications 2024.01.26 UNCHANGING SIGHTS - A POEM 2024.01.17 THE WEIGHT I CARRY - A POEM 2024.01.08 REFLECTIONS OF LOVE - A POEM 2024.01.08 I CAN\u0026#39;T BREATHE - A Poem ",
       "date_published": "2024-01-17T19:00:34+03:00"
     },
     {
-      "id": "9624026c-e2aa-5003-b979-e70ffafa7993",
-      "url": "/poems/reflections-of-love/?utm_source=json_feed",
+      "id": "0bec5d26-9eae-596d-79b6-ab4371890c0e",
+      "url": "https://whispersofverses.com/poems/reflections-of-love/?utm_source=json_feed",
       "title": "REFLECTIONS OF LOVE - A POEM",
       "summary": "In the mirror’s gaze, find strength untold,\nEmbrace the flaws, let self-love unfold.\nA dance with echoes of kindness within,\nCherish the soul, let self-love begin.\nThrough trials and triumphs, be your guide,\nIn the heart’s cathedral, let love reside.\nEach flaw a note in the melody of you,\nCompose a symphony, authentic and true.\nLike petals unfolding in morning light,\nDiscover self-love, a radiant sight.\nNo need for judgment, let acceptance bloom,",
       "date_published": "2024-01-08T19:00:04+03:00"
     },
     {
-      "id": "d893a549-66be-53be-39c0-1ed61aeed0bc",
-      "url": "/poems/cant-breathe/?utm_source=json_feed",
+      "id": "c9abc008-7e89-5ed1-69c1-ae513b0b2f75",
+      "url": "https://whispersofverses.com/poems/cant-breathe/?utm_source=json_feed",
       "title": "I CAN'T BREATHE - A Poem",
       "summary": "In shadows cast by prejudice, a tale unfolds,\n“I can’t breathe,” the whispered plea, truth be told.\nA world divided by the hues we wear,\nYet, in unity, a remedy lies somewhere.\nEchoes of injustice linger in the air,\nAs wounds of hatred fester, deep and bare.\n“I can’t breathe,” a refrain of human pain,\nYearning for a day when love shall reign.\nSkin is but a canvas, painted diverse,",
       "date_published": "2024-01-08T18:46:42+03:00"
