@@ -1,7 +1,7 @@
 ---
-title: "Veiled Whisper of Love - A ball"
+title: "Veiled Whisper of Love - A love poem"
 date: 2024-02-28T20:16:10+03:00
-draft: true
+draft: false
 ---
 
 ____________
