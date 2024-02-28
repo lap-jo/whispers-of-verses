@@ -9,8 +9,8 @@ keywords:
   - whispersofverses
   - poetry
   - minimal
-  - responsive
-  - clean
+  - stories
+  - love
 
 # A "copyright"-line to be added to RSS/Atom files.
 # "&copy;" and "{year}" will be replaced by © and the current year.
@@ -111,3 +111,4 @@ search:
     # - it
     # - pt
     # - ru
+site.Params.env: "production"

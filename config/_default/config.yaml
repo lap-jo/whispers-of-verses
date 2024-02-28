@@ -16,7 +16,7 @@ title: Whispers of Verses.
 # This is replaced in go.mod for exampleSite to point to the directory above.
 theme: github.com/sergeyklay/gohugo-theme-ed
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 
 # When using ref or relref to resolve page links and a link cannot
 # resolved, it will be logged with this log level.
@@ -174,3 +174,5 @@ module:
 module:
   imports:
     - path: github.com/sergeyklay/gohugo-theme-ed
+
+HUGO_ENV: "production"
