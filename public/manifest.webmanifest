@@ -5,7 +5,6 @@
   "short_name": "Poems by Agum Manuella",
   
   "lang": "en-us",
-  "dir": "ltr",
   "start_url": "/index.html?source=pwa",
   "display": "fullscreen",
   "theme_color": "#ffffff",

@@ -6,6 +6,9 @@ author: agum manuella
 tag: poetry
 ---
 
+
+![many handprint of different races together with the word unity below them](/images/vecteezy_stop-racism-icon-motivational-poster-against-racism-and_7644433.jpg "stop racism icon by - Adnan Rusdi on vecteezy")
+
 *In shadows cast by prejudice, a tale unfolds,*
 
 *“I can’t breathe,” the whispered plea, truth be told.*

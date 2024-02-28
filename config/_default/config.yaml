@@ -2,7 +2,7 @@
 baseURL: https://whispersofverses.com/
 
 languageCode: en-us
-defaultContentLanguage: en
+# defaultContentLanguage: en
 
 # Keep title short to prevent overflow.
 # There’s no official guidance on this, but 40 characters for
