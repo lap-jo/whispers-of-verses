@@ -1,3 +1,9 @@
 # robots.txt file for "Whispers of Verses." website, whispersofverses.com
 User-agent: *
-Disallow: 
+Disallow: /thanks
+Disallow: /404.html
+Disallow: manifest.webmaster
+Disallow: /search?q=*
+Disallow: /search/?q=*
+
+Sitemap: https://whispersofverses.com/sitemap.xml
