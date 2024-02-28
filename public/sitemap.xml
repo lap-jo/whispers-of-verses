@@ -3,20 +3,27 @@
     
     <url>
         <loc>https://whispersofverses.com/poems/</loc>
-        <lastmod>2024-01-26T19:00:48+03:00</lastmod>
+        <lastmod>2024-02-28T20:16:10+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://whispersofverses.com/poems/unchanging-sights/</loc>
-        <lastmod>2024-01-26T19:00:48+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/vieled-whisper-of-love/</loc>
+        <lastmod>2024-02-28T20:16:10+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://whispersofverses.com/</loc>
+        <lastmod>2024-02-28T20:16:10+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://whispersofverses.com/poems/unchanging-sights/</loc>
         <lastmod>2024-01-26T19:00:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>

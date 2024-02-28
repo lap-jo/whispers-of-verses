@@ -50,7 +50,7 @@ recentPostsSize: 5
 
 contact:
   # Forms Backend URL, used in contacts form
-  formAction: 'https://submit-form.com/example'
+  formAction: 'https://submit-form.com/UQJ96nNqy'
 
   # Contact form email subject
   emailSubject: Contact form submission
