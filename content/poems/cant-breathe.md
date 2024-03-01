@@ -17,6 +17,8 @@ tag: poetry
 
 *Yet, in unity, a remedy lies somewhere.*
 
+___
+
 *Echoes of injustice linger in the air,*
 
 *As wounds of hatred fester, deep and bare.*
@@ -24,6 +26,8 @@ tag: poetry
 *“I can’t breathe,” a refrain of human pain,*
 
 *Yearning for a day when love shall reign.*
+
+___
 
 *Skin is but a canvas, painted diverse,*
 
@@ -33,6 +37,8 @@ tag: poetry
 
 *To embrace compassion, let understanding reign.*
 
+___
+
 *In each heart’s rhythm, a shared beat,*
 
 *“I can’t breathe,” a cry for mercy sweet.*
@@ -40,6 +46,8 @@ tag: poetry
 *Together we must rise, a chorus strong,*
 
 *For in unity, we find where we belong.*
+
+___
 
 
 

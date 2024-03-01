@@ -1,11 +1,15 @@
 ---
-title: "REFLECTIONS OF LOVE - A POEM"
+title: "REFLECTIONS OF LOVE - A poetic tapestry"
 date: 2024-01-08T19:00:04+03:00
 draft: false
 tag: poetry
 ---
 
-![hands above water](/images/hands.png)
+____
+
+![hands with vitiligo above blue sea ](/images/hands.png)
+
+____
 
 
 *In the mirror’s gaze, find strength untold,*
@@ -16,6 +20,8 @@ tag: poetry
 
 *Cherish the soul, let self-love begin.*
 
+____
+
 *Through trials and triumphs, be your guide,*
 
 *In the heart’s cathedral, let love reside.*
@@ -23,6 +29,8 @@ tag: poetry
 *Each flaw a note in the melody of you,*
 
 *Compose a symphony, authentic and true.*
+
+____
 
 *Like petals unfolding in morning light,*
 
@@ -32,6 +40,8 @@ tag: poetry
 
 *A garden of self-love, banish self-doubt’s gloom.*
 
+____
+
 *Celebrate the journey, the scars you wear,*
 
 *A testament to resilience, proof that you care.*
@@ -40,6 +50,8 @@ tag: poetry
 
 *Love yourself wholly, let your light shine.*
 
+____
+
 *For in the vast cosmos of your being,*
 
 *Find galaxies of love, endlessly freeing.*
@@ -47,5 +59,7 @@ tag: poetry
 *Embrace the canvas of your unique art,*
 
 *A masterpiece of love, a work of the heart.*
+
+____
 
 {{<mini-toc>}}

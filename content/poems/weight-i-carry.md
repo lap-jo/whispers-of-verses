@@ -3,6 +3,7 @@ title: "THE WEIGHT I CARRY - A POEM"
 date: 2024-01-17T19:00:34+03:00
 draft: false
 ---
+___
 
 *While you claim to care,*
 
@@ -13,6 +14,8 @@ draft: false
 *Even though you say to “ignore it,”*
 
 *I’m left with a hurt heart…*
+
+____
 
 ![hands suffocating a girl](/images/the_weight_i_carry.png)
 
