@@ -1,6 +1,7 @@
 ---
 title: "THE WEIGHT I CARRY - A POEM"
 date: 2024-01-17T19:00:34+03:00
+description: "the weigh i carry - a poem about having no shoulder to lean on"
 draft: false
 ---
 ___

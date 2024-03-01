@@ -1,6 +1,7 @@
 ---
 title: "Veiled Whisper of Love - A love poem"
 date: 2024-02-28T20:16:10+03:00
+description: "veiled whisper of love - a poem on concealed emotions due to fear of being judged "
 draft: false
 ---
 

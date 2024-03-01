@@ -1,7 +1,7 @@
 ---
 title: About
 pageTitle: Hi!
-description: about page for the author of whispersdotcom
+description: whispersofverses about page - find out who the poet is and what whispers of verses is about
 semanticType: about
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "I CAN'T BREATHE - A Poem"
 date: 2024-01-08T18:46:42+03:00
+description: "I can't breathe - a poem about segregation and the hurt it causes, the author quotes george floyd"
 draft: false
 author: agum manuella
 tag: poetry
