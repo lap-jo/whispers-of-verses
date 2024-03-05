@@ -48,7 +48,7 @@ minify:
       keepQuotes: true
 
 outputs:
-  home: [HTML, Atom, FEED, JSONFEED, JSON, MANIFEST, humanstxt]
+  home: [HTML, RSS, Atom, FEED, JSONFEED, JSON, MANIFEST, humanstxt]
   section: [HTML, Atom, FEED, JSONFEED]
   page: [HTML]
   taxonomy: [HTML]

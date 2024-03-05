@@ -41,7 +41,7 @@ main:                # sections in the website sidebar
 feeds:
   - identifier: rss
     name: RSS 2.0
-    url: /feeds/feed.rss.xml
+    url: /feeds/*
     weight: 1
   - identifier: atom
     name: Atom

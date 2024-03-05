@@ -3,6 +3,7 @@
     <title type="html"><![CDATA[Whispers of Verses.]]></title>
     
     <link href="/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
     <link href="/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />

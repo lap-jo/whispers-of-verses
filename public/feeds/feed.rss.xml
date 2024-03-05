@@ -22,6 +22,7 @@
         <height>96</height>
     </image>
     <atom:link href="/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/index.xml" rel="alternate" type="application/rss+xml" title="RSS" />
     <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
     <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
     <atom:link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
