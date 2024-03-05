@@ -28,10 +28,10 @@ footer: >-
   Copyright &copy; 2023-{year} Agum Manuella
 
 # Sections to be displayed in:
-# - main page
-# - RSS/Atom/Json feeds
-# - search index
-# - ...
+main page:
+- RSS/Atom/Json feeds
+- search index
+- ...
 mainSections:
   - posts
   - poems
@@ -91,7 +91,7 @@ social:
   facebookId: ''
 
   # Twitter username for the website
-  twitter: john_doe
+  twitter: whispers_verses
 
 # Configure search engine
 search:
