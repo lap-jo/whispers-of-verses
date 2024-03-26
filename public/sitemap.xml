@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>https://whispersofverses.com/poems/</loc>
-        <lastmod>2024-02-28T20:16:10+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/the-cure/</loc>
+        <lastmod>2024-03-26T07:51:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://whispersofverses.com/poems/vieled-whisper-of-love/</loc>
-        <lastmod>2024-02-28T20:16:10+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/</loc>
+        <lastmod>2024-03-26T07:51:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://whispersofverses.com/</loc>
+        <lastmod>2024-03-26T07:51:48+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://whispersofverses.com/poems/vieled-whisper-of-love/</loc>
         <lastmod>2024-02-28T20:16:10+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
