@@ -8,44 +8,44 @@ author: "agum manuella"
 
 ___
 
-In meadows green, where wildflowers
-dance,
+*In meadows green, where wildflowers*
+*dance,*
 
-Beneath the sun's warm, golden glance,
+*Beneath the sun's warm, golden glance,*
 
-The whispering trees, their leaves a flutter,
+*The whispering trees, their leaves a flutter,*
 
-Tell tales of time, in every flutter.
-
-___
-
-The babbling brook, with it's gentle song,
-
-Winds it's way, serene and strong,
-
-Through valleys deep and mountains high,
-
-Nature's symphon, reaching the sky.
+*Tell tales of time, in every flutter.*
 
 ___
 
-On wings of birds, in graceful flight,
+*The babbling brook, with it's gentle song,*
 
-Painting the heavens with colors bright,
+*Winds it's way, serene and strong,*
 
-The harmony of earth and sky,
+*Through valleys deep and mountains high,*
 
-In every creature, life does lie.
+*Nature's symphon, reaching the sky.*
 
 ___
 
-From dawn's first light to dusk's last sigh,
+*On wings of birds, in graceful flight,*
 
-Nature's beauty never does die,
+*Painting the heavens with colors bright,*
 
-In every leaf, in every breeze,
+*The harmony of earth and sky,*
 
-Her eternal spirit, forever frees.
+*In every creature, life does lie.*
+
+___
+
+*From dawn's first light to dusk's last sigh,*
+
+*Nature's beauty never does die,*
+
+*In every leaf, in every breeze,*
+
+*Her eternal spirit, forever frees.*
 
 ___
 

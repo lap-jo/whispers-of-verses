@@ -4,55 +4,55 @@ date: 2024-03-26T13:44:28+03:00
 draft: false
 ---
 
-"For the one who showed me love."
+*For the one who showed me love.*
 
-To the one who makes my world so bright,
+*To the one who makes my world so bright,*
 
-In your love, I find my guiding light.
+*In your love, I find my guiding light.*
 
-Through all life's storms, you're my sturdy tree,
+*Through all life's storms, you're my sturdy tree,*
 
-My source of joy and endless glee.
-
-___
-
-Your smile, a sunbeam on my darkest day,
-
-In your arms, all my worries melt away.
-
-With you, my love, I've found my home,
-
-In your embrace, I'll never roam.
+*My source of joy and endless glee.*
 
 ___
 
-You lift me up when I am down,
+*Your smile, a sunbeam on my darkest day,*
 
-In your laughter, I've found my crown.
+*In your arms, all my worries melt away.*
 
-With every word, with every touch,
+*With you, my love, I've found my home,*
 
-You've shown me love means oh so much.
-
-___
-
-Through thick and thin, you're always near,
-
-Your love is constant, crystal clear.
-
-In your presence, my heart's at ease,
-
-With you, I've found my perfect peace.
+*In your embrace, I'll never roam.*
 
 ___
 
-So here's a poem, a gift from me,
+*You lift me up when I am down,*
 
-To the one who holds my heart with glee.
+*In your laughter, I've found my crown.*
 
-You're my joy, my love, my destiny,
+*With every word, with every touch,*
 
-Forever and always, together we'll be.
+*You've shown me love means oh so much.*
+
+___
+
+*Through thick and thin, you're always near,*
+
+*Your love is constant, crystal clear.*
+
+*In your presence, my heart's at ease,*
+
+*With you, I've found my perfect peace.*
+
+___
+
+*So here's a poem, a gift from me,*
+
+*To the one who holds my heart with glee.*
+
+*You're my joy, my love, my destiny,*
+
+*Forever and always, together we'll be.*
 
 ___
 
