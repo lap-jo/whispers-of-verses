@@ -6,7 +6,6 @@ description: "an ode to nature, a poem celebrating nature, the flora and fauna -
 author: "agum manuella"
 ---
 
-___
 
 *In meadows green, where wildflowers*
 *dance,*
