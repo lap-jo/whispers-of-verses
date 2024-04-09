@@ -3,20 +3,27 @@
     
     <url>
         <loc>https://whispersofverses.com/poems/</loc>
-        <lastmod>2024-03-31T22:21:20+03:00</lastmod>
+        <lastmod>2024-04-09T21:15:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://whispersofverses.com/poems/whispers-of-the-wild/</loc>
-        <lastmod>2024-03-31T22:21:20+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/societys-blind-eye/</loc>
+        <lastmod>2024-04-09T21:15:48+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://whispersofverses.com/</loc>
+        <lastmod>2024-04-09T21:15:48+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://whispersofverses.com/poems/whispers-of-the-wild/</loc>
         <lastmod>2024-03-31T22:21:20+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
