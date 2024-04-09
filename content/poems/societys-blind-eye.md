@@ -1,7 +1,7 @@
 ---
 title: "Society's Blind Eye"
 date: 2024-04-09T21:15:48+03:00
-draft: true
+draft: false
 description: "society's blind eye | judgements cast | a survivors tale | the courtrooms echo | blaming attire | freedom for the offender | poem by agum manuella | whispersofverses_zjay"
 author: "agum manuella"
 ---
