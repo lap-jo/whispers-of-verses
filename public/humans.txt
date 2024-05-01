@@ -6,8 +6,8 @@
 
     /* SITE */
 
-    Last update: 2024/04/10
-    Language: 
+    Last update: 2024/05/01
+    Language: English
     Doctype: HTML5
     Standards: HTML5, CSS3, Open Graph protocol, Schema.org
     Components: Hugo, Ed Theme, Lunr.js

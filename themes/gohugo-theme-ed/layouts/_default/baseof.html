@@ -19,7 +19,9 @@
             </header>
 
             <main class="container content" id="main">
-                {{ block "main" . }}{{ end }}
+                {{ block "main" . }}
+                {{ partial "adsense.html" . }}
+                {{ end }}
             </main>
         </div>
 
