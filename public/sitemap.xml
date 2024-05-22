@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>https://whispersofverses.com/poems/</loc>
-        <lastmod>2024-04-14T21:55:06+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/let-the-emotions-flow/</loc>
+        <lastmod>2024-05-15T17:45:44+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>https://whispersofverses.com/poems/spiritual-sisterhood/</loc>
-        <lastmod>2024-04-14T21:55:06+03:00</lastmod>
+        <loc>https://whispersofverses.com/poems/</loc>
+        <lastmod>2024-05-15T17:45:44+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>https://whispersofverses.com/</loc>
+        <lastmod>2024-05-15T17:45:44+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://whispersofverses.com/poems/spiritual-sisterhood/</loc>
         <lastmod>2024-04-14T21:55:06+03:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -106,6 +113,12 @@
     
     <url>
         <loc>https://whispersofverses.com/credits/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://whispersofverses.com/privacypolicy/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
