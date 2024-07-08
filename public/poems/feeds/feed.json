@@ -6,7 +6,11 @@
   
   "icon": "https://whispersofverses.com/favicon-1200x630_hu3ded3c378eb8d7fd5b56e66f91340198_1258_96x96_resize_box_3.png",
   "favicon": "https://whispersofverses.com/favicon-1200x630_hu3ded3c378eb8d7fd5b56e66f91340198_1258_96x96_resize_box_3.png",
-  
+  "authors": [
+    {
+      "name": "Agum Manuella"
+    }
+  ],
   "language" : "en",
   "items": [
     {

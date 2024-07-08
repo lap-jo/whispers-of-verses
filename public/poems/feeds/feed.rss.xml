@@ -27,6 +27,7 @@
     <atom:link href="/poems/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
     
     <generator>Hugo 0.121.2</generator>
+    <dc:creator type="html"><![CDATA[Agum Manuella]]></dc:creator>
     <language>en</language>
     <copyright>Copyright © 2023-2024 Agum Manuella</copyright>
     <lastBuildDate>Mon, 08 Jul 2024 15:10:20 +0300</lastBuildDate>
