@@ -137,7 +137,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
-author:
+params.author:
   name: Agum Manuella
   email: manuellaagum25@gmail.com
   # github: john_doe
@@ -175,4 +175,4 @@ module:
   imports:
     - path: github.com/sergeyklay/gohugo-theme-ed
 
-CommentsCusdisID: "e4c80c6d-bc29-4846-971c-fb34ceb29ca5"
+# CommentsCusdisID: "e4c80c6d-bc29-4846-971c-fb34ceb29ca5"

@@ -1,12 +1,8 @@
 
-    /* TEAM */
-
-    Author: Agum Manuella
-    Contact: manuellaagum25@gmail.com
 
     /* SITE */
 
-    Last update: 2024/05/22
+    Last update: 2024/07/08
     Language: English
     Doctype: HTML5
     Standards: HTML5, CSS3, Open Graph protocol, Schema.org
