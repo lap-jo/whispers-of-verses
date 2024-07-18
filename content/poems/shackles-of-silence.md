@@ -6,6 +6,8 @@ draft: false
 author: "Agum Manuella"
 ---
 
+![a young bojack horseman and he's mom](/images/bojack_mom.jpg)
+ ___
 Raised to be humble, quiet, and small,
 
 Taught to be strong, never to fall.  
@@ -65,5 +67,7 @@ Yet in their hearts, a shared desire,
 To break free together, and rise from the fire.
 
 ___
+
+
 
 {{<mini-toc>}}
