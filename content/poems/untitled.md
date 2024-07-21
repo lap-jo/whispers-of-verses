@@ -8,6 +8,9 @@ author: "Agum Manuella"
 
 ___
 
+
+![family potrait fro the show f is for family](/images/f_is_for_family.webp "family potrait")
+
 In the quiet of their rooms
 
 they retreat
