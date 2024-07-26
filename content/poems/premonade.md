@@ -2,13 +2,9 @@
 title: "Premonade"
 date: 2024-07-26T12:12:31+03:00
 draft: false
+description: "i think of death so much | a silent ache that lingers on | a poem on death and life, love |  the bittersweet truth"
 author: "Agum Manuella"
 ---
-
-
-
-
-___
 
 😰
 
