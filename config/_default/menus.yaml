@@ -32,11 +32,11 @@ main:                # sections in the website sidebar
     weight: 4
 
   # - identifier: github
-    # name: GitHub Project
-    # url: 'https://github.com/sergeyklay/gohugo-theme-ed/'
-    # weight: 20
-    # params:
-      # external: true
+  #   name: GitHub Project
+  #   url: 'https://github.com/sergeyklay/gohugo-theme-ed/'
+  #   weight: 20
+  #   params:
+  #     external: true
 
 feeds:
   - identifier: rss

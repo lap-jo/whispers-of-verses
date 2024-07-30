@@ -28,7 +28,11 @@ tagline: Poems by Agum Manuella
 # Custom footer text on left sidebar. Use HTMl if needed.
 # "&copy;" and "{year}" will be replaced by © and the current year.
 footer: >-
-  Copyright &copy; 2023-{year} Agum Manuella
+  Copyright &copy; 2023-{year} whispersofverses.com
+
+author:
+  name: Agum Manuella
+  email: manuellaagum25@gmail.com
 
 # Sections to be displayed in:
 main page:

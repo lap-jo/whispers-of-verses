@@ -137,9 +137,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
-author:
-  name: Agum Manuella
-  email: manuellaagum25@gmail.com
+# author:
+#   name: Agum Manuella
+#   email: manuellaagum25@gmail.com
   # github: john_doe
   # twitter: john_doe
   # location: 'Uganda'
