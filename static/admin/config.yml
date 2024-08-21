@@ -15,7 +15,7 @@ public_folder: "/images"
 # media_library: '' configures media library intergrations
 # name: '' 
 # config: ''
-site_url: https://whispersofverses.com/#
+site_url: https://whispersofverses.com/admin/#
 #show_preview_links: true
 # search: false
 slug:
