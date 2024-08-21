@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  repo: https:github.com/lap-jo/blog
+  repo: https:github.com/lap-jo/whispers-of-verses
   commit_messages:
     create: Create {{collection}} “{{slug}}”
     update: Update {{collection}} “{{slug}}”
