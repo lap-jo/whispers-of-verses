@@ -1,10 +1,10 @@
 ---
 title: decapcms
-date: 2024-08-21 15:41:00
-description: "this is a test of decapcms to see if content appears on sight"
+date: 2024-08-21T16:11:00
+description: this is a test of decapcms to see if content appears on sight
 draft: false
-author: 'Admin'
-tag: 'poem'
+author: Admin
+tag: poem
 ---
 ___
 A test of decap cms
