@@ -23,9 +23,9 @@ slug:
   sanitize_replacement: "-"
 
 collections:
-  - name: 'posts'
-    label: 'Posts'
-    label_singular: 'Post'
+  - name: 'poems'
+    label: 'Poems'
+    label_singular: 'poem'
     folder: '/content/poems/'
     create: true
     description: >
