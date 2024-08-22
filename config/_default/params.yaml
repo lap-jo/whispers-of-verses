@@ -1,5 +1,6 @@
 # Site description. Used in meta description
-description: >-
+description: >- 
+  website owned by agum manuella for poems, stories, among other things.
 
 
 # SEO keywords. Used in 'meta name="keywords"' tag.
@@ -14,6 +15,8 @@ keywords:
   - whispers of verses
   - whispers
   - verses
+  - pain
+  - whispers of verses
 
 # A "copyright"-line to be added to RSS/Atom files.
 # "&copy;" and "{year}" will be replaced by © and the current year.
