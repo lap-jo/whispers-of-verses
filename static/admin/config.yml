@@ -60,7 +60,7 @@ collections:
           default: {{now}},
         }
       - { label: 'Description', name: 'description', widget: 'string', default: 'this is the post description' }
-      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { 
         label: 'author',
         name: 'author',
