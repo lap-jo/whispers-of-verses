@@ -1,7 +1,9 @@
 ---
 title: A Child's Cry
 date: 2024-08-27T21:33:00+03:00
-description: this is the post description
+description: a child's cry | poem by agum manuella | for whispersofverses |
+  written poems, poetry readings | I wish you'd left me when the chance was
+  there | you gave me life | my cries and pleas are lost in the crowd
 draft: false
 author: Agum Manuella
 ---
