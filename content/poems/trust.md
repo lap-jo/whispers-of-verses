@@ -2,7 +2,7 @@
 title: TRUST
 date: 2024-09-29T04:57:00+03:00
 description: "Just something I felt like I should write about "
-draft: true
+draft: false
 author: "agum manuella "
 ---
 Trust me, they say,
