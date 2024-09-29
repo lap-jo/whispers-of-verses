@@ -2,7 +2,7 @@
 title: "PARENTS "
 date: 2024-09-29T05:05:00+03:00
 description: "I really don't have much to put here "
-draft: true
+draft: false
 author: "agum manuella "
 ---
 You might think it's one of those
@@ -49,3 +49,7 @@ But some scars are meant to stay.
 
 And not every story has a happy ending.
 ______
+
+{{<comments>}}
+
+{{<mini-toc>}}
