@@ -1,7 +1,6 @@
 ---
 title: "IF I DON'T HAVE YOU "
-date:
-  ? "{ now }"
+date: 2024-10-12T14:30:00+03:00
 description: "Inspo: If I ain't got you by Alicia Keys"
 draft: false
 author: "agum manuella and zephyr atuhaire "
