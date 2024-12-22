@@ -66,7 +66,7 @@ all the earth
 
 I would still know you-
 
-your sould would echo 
+your soul would echo 
 
 through the hollow of mine 
 
@@ -76,3 +76,5 @@ a love beyond
 
 the frailty of flesh 
 ___
+{{<comments>}}
+{{<mini-toc>}}
