@@ -1,7 +1,6 @@
 ---
 title: PUPPET
-date:
-  ? "{ now }"
+date: 2025-01-03T11:57:00+03:00
 description: Judgement, self loathing, paranoia
 draft: false
 author: "agum manuella "
