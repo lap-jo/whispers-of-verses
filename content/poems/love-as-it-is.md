@@ -14,30 +14,36 @@ Love is no angel born of heaven's haze 
 But earth-bound flesh that aches, and tears,
 
  and roars. 
-___
+
+- - -
+
 Thou art not flawless, neither am I whole.
 
 We crash like waves, then sink beneath the tide 
-
 
 Yet in thy storm, I find my anchor'd soul 
 
 A place where rawest truths dos still abide.
 
-___
+- - -
 
 Speak not of stars or roses in their bloom 
 
 Love lies in shadows where we bare our scars 
 
 It is the flame that feeds as a thousand stars.
-___
+
+- - -
 
 No polished lie just this: I love you still 
 
 And loving you 
 
 I bend the world to will.
+
 ___
-{{<comments>}}
+
+
 {{<mini-toc>}}
+
+{{<comments>}}
