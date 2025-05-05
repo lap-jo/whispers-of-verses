@@ -5,8 +5,6 @@ description: ...
 draft: false
 author: agum manuella
 ---
-
-
 Love did not come
 
 as thunder or revelation—
@@ -19,7 +17,7 @@ became more tangible
 
 than your voice.
 
-___
+- - -
 
 You do not make me **le**vi**tate**—
 
@@ -37,7 +35,7 @@ so your breath could echo
 
 across the cosmos of my ribs.
 
-___
+- - -
 
 If I were the **moon**,
 
@@ -57,7 +55,7 @@ who **sta**yed through the night
 
 till the **sun** burned back through the **sky**.
 
-___
+- - -
 
 My name has edges now
 
@@ -67,13 +65,13 @@ And even silence
 
 has started to sound like you.
 
-___
+- - -
 
 Even the desert learned how to **blossom**
 
 watching your shadow **fall** upon my **skin**.
 
-___
+- - -
 
 Were I the author of the stars,
 
@@ -93,4 +91,19 @@ except the one I earned
 
 by **lov**ing you.
 
-___
+
+
+
+
+
+{{<comments>}}
+
+{{<mini-toc>}}
+
+
+
+
+
+
+
+- - -
